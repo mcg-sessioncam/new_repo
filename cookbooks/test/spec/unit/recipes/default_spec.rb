@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2017 The Authors, All Rights Reserved.
 
-require 'spec_helper'
+require 'chefspec'
 
 describe 'test::default' do
   context 'When all attributes are default, on an unspecified platform' do
