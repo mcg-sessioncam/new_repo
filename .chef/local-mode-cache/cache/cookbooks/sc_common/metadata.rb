@@ -1,7 +1,0 @@
-name 'sc_common'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures sc_common'
-long_description 'Installs/Configures sc_common'
-version '0.1.0'
